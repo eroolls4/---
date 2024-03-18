@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\lab1_b\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\lab1_b\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\lab1_b\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|c:\\users\\eroll saqipi\\desktop\\it_2024\\lab1_b\\lab1_b\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\lab1_b\\glasaj.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\glasaj.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\lab1_b\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{602FC4C8-AEB3-4C67-9CDF-611B644D15A1}|LAB1_B\\LAB1_B.csproj|solutionrelative:lab1_b\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "LAB1_B\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "LAB1_B\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T19:49:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "LAB1_B\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx.cs",
+              "RelativeToolTip": "LAB1_B\\Glasaj.aspx.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:42:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Glasaj.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx.designer.cs",
+              "RelativeDocumentMoniker": "LAB1_B\\Glasaj.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx.designer.cs",
+              "RelativeToolTip": "LAB1_B\\Glasaj.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:42:47.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "LAB1_B\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Glasaj.aspx",
+              "RelativeToolTip": "LAB1_B\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T19:36:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "LAB1_B\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Najava.aspx.cs",
+              "RelativeToolTip": "LAB1_B\\Najava.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:34:43.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Najava.aspx",
+              "RelativeDocumentMoniker": "LAB1_B\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_2024\\LAB1_B\\LAB1_B\\Najava.aspx",
+              "RelativeToolTip": "LAB1_B\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T18:59:53.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
