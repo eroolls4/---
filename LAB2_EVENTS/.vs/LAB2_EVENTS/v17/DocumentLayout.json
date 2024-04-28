@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\views\\event\\getallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\views\\event\\getallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|c:\\users\\eroll saqipi\\desktop\\it_lab2\\lab2_events\\lab2_events\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A65B1-F641-41FD-9841-EBA4E0AD768C}|LAB2_EVENTS\\LAB2_EVENTS.csproj|solutionrelative:lab2_events\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "LAB2_EVENTS\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T23:28:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "LAB2_EVENTS\\Views\\Event\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T22:58:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LAB2_EVENTS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T21:46:47.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LAB2_EVENTS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T21:46:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\GetAllEvents.cshtml",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Views\\Event\\GetAllEvents.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Views\\Event\\GetAllEvents.cshtml",
+              "RelativeToolTip": "LAB2_EVENTS\\Views\\Event\\GetAllEvents.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T21:46:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Controllers\\EventController.cs",
+              "RelativeToolTip": "LAB2_EVENTS\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:44:29.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Models\\Event.cs",
+              "RelativeToolTip": "LAB2_EVENTS\\Models\\Event.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:39:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LAB2_EVENTS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_LAB2\\LAB2_EVENTS\\LAB2_EVENTS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LAB2_EVENTS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:38:19.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
