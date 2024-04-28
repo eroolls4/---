@@ -18,22 +18,17 @@ namespace LAB2_EVENTS.Controllers
             new Event("event5", "shfajcari")
         };
 
-        public EventController()
-        {
-
-        }
+        public EventController()   { }
 
 
         public IActionResult GetAllEvents()
         {
-
             return View(events);
         }
 
 
         public IActionResult Create()
         {
-
             return View();
         }
 
@@ -46,14 +41,12 @@ namespace LAB2_EVENTS.Controllers
                 events.Add(e);
                 return RedirectToAction(nameof(GetAllEvents));
             }
-
             return View(e);
         }
 
 
         private void resetTracker()
         {
-          
             BaseEvent.ID_TRACKER = events.Count != 0 ? findMaxID()  + 1 : 1;
         }
 
@@ -94,17 +87,14 @@ namespace LAB2_EVENTS.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("eventName,eventLocation")] Event e)
         {
-       
             if (ModelState.IsValid)
             {
-
                     Event toEdit = findByID(id);
                     toEdit.eventLocation = e.eventLocation;
                     toEdit.eventName = e.eventName;
                     resetTracker();
                 return RedirectToAction(nameof(GetAllEvents));
             }
-          
             return View(e);
         }
 
