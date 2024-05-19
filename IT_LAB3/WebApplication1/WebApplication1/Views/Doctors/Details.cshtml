@@ -1,0 +1,58 @@
+﻿@model WebApplication1.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DoctorName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DoctorName)
+        </dd>
+        <dt>
+            Hospital
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hospital.HospitalName)
+        </dd>
+        <dt>
+            Location
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hospital.HospitalLocation)
+        </dd>
+    </dl>
+
+    <div>
+        @Html.ActionLink("ADD A NEW PATIENT", "AddPatientToDoctor", new { id = Model.ID })
+    </div>
+</div>
+
+<h3>Patients of Dr. @Model.DoctorName</h3>
+@if (Model.Patients != null && Model.Patients.Count > 0)
+{
+    <ul class="list-group">
+        @foreach (var patient in Model.Patients)
+        {
+            <li class="list-group-item">
+                @Html.DisplayFor(modelItem => patient.PatientName) - @Html.DisplayFor(modelItem => patient.PatientCode)
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No patients assigned to this doctor.</p>
+}
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
