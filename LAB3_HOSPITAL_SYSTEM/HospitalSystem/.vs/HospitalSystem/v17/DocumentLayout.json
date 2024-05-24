@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\patientdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\patientdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\hospitals\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\hospitals\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HospitalSystem_20240524112013/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242252375_part5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242252375_part5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242245037_part4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242245037_part4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HospitalSystem_20240524112013/True/SqlTable/dbo.PatientDoctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242159559_part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242159559_part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242140103_jasdii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242140103_jasdii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242133377_init1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242133377_init1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242131182_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242131182_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\202405242129127_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\202405242129127_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\eroll saqipi\\desktop\\it_hospital_system\\hospitalsystem\\hospitalsystem\\models\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7EF84-E0DB-49A8-9425-60944F451A50}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T23:08:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\Details.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Hospitals\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\Details.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Hospitals\\Details.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:56:00.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:01:29.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "HospitalSystem\\Controllers\\HospitalsController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAQwLUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:46:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\PatientDoctor.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\PatientDoctor.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\PatientDoctor.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\PatientDoctor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:49:38.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\AddDoctor.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Hospitals\\AddDoctor.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\AddDoctor.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Hospitals\\AddDoctor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:54:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalSystem\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAwMcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:44:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HospitalSystem_20240524112013/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-24T22:53:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202405242252375_part5.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242252375_part5.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242252375_part5.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242252375_part5.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242252375_part5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:52:42.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Doctors\\AddPatient.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\AddPatient.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Doctors\\AddPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:05:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202405242245037_part4.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242245037_part4.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242245037_part4.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242245037_part4.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242245037_part4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:45:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:21:13.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Doctor.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:22:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Patient.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:22:28.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Hospital.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\Hospital.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\Hospital.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:22:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:46:19.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:37:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Doctors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Doctors\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:22:14.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.PatientDoctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HospitalSystem_20240524112013/True/SqlTable/dbo.PatientDoctors.sql",
+              "ToolTip": "dbo.PatientDoctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-24T22:23:26.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalSystem\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:42:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202405242159559_part2.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242159559_part2.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242159559_part2.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242159559_part2.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242159559_part2.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:00:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:42:25.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:42:43.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "202405242140103_jasdii.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242140103_jasdii.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242140103_jasdii.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242140103_jasdii.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242140103_jasdii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:40:14.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GENDER.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\enums\\GENDER.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\enums\\GENDER.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\enums\\GENDER.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\enums\\GENDER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:21:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:35:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:31:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "202405242133377_init1.1.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242133377_init1.1.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242133377_init1.1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242133377_init1.1.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242133377_init1.1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:33:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "202405242131182_init1.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242131182_init1.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242131182_init1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242131182_init1.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242131182_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:31:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202405242129127_init.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242129127_init.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\202405242129127_init.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\202405242129127_init.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\202405242129127_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:29:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "HospitalSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Startup.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Startup.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Startup.cs",
+              "RelativeToolTip": "HospitalSystem\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:32.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "HospitalSystem\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:28.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "HospitalSystem\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "HospitalSystem\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "HospitalSystem\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:28:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IT_HOSPITAL_SYSTEM\\HospitalSystem\\HospitalSystem\\Models\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:22:02.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

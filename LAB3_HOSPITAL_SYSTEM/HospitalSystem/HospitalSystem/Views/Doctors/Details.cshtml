@@ -1,0 +1,60 @@
+﻿@model HospitalSystem.Models.Entities.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DoctorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DoctorName)
+        </dd>
+
+    </dl>
+</div>
+
+
+<div>
+    <h4>Associated Patients</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>Patient Name</th>
+            <th>Patient Code</th>
+            <th>Gender</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var patientDoctor in Model.Patients)
+        {
+            if (patientDoctor.Patient != null)
+            {
+                <tr>
+                    <td>@patientDoctor.Patient.PatientName</td>
+                    <td>@patientDoctor.Patient.PatientCode</td>
+                    <td>@patientDoctor.Patient.Gender</td>
+
+                    <td>
+                        @Html.ActionLink("Remove", "RemovePatient", new { doctorId = Model.Id, patientId = patientDoctor.PatientId })
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+
+<p>
+    @Html.ActionLink("Add Patient", "AddPatient", new { doctorId = Model.Id })
+</p>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
