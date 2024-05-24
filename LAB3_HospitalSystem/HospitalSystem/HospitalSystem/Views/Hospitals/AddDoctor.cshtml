@@ -1,0 +1,24 @@
+﻿@model HospitalSystem.Models.Entities.Doctor
+
+@{
+    ViewBag.Title = "Add Doctor";
+}
+
+<h2>Add Patient for @ViewBag.HospitalName</h2>
+
+@using (Html.BeginForm("AddDoctor", "Hospitals"))
+{
+    @Html.Hidden("HospitalId", (int)ViewBag.HospitalId)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DoctorName, htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("DoctorId", null, "-- Select Doctor --", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Doctor</button>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
