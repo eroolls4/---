@@ -143,8 +143,18 @@ namespace HospitalSystem.Controllers
 
             ViewBag.DoctorId = doctorId;
             ViewBag.DoctorName = db.Doctors.Find(doctorId).DoctorName;
-            var patients = db.Patients.ToList();
-            ViewBag.PatientId = new SelectList(patients, "Id", "PatientName");
+
+
+            var associatedPatientIds = db.PatientsDoctors
+                                    .Where(pd => pd.DoctorId == doctorId)
+                                    .Select(pd => pd.PatientId);
+
+
+            var availablePatients = db.Patients
+                                  .Where(p => !associatedPatientIds.Contains(p.Id))
+                                  .ToList();
+
+            ViewBag.PatientId = new SelectList(availablePatients, "Id", "PatientName");
 
             return View();
         }
@@ -178,7 +188,7 @@ namespace HospitalSystem.Controllers
                 {
                     DoctorId = doctorId.Value,
                     PatientId = patientId.Value,
-                    Patient = patient
+                    //Patient = patient
                 };
 
                 db.PatientsDoctors.Add(patientDoctor);

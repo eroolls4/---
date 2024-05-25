@@ -146,7 +146,7 @@ namespace HospitalSystem.Controllers
 
             ViewBag.HospitalId =  hospitalId;
             ViewBag.HospitalName = db.Hospitals.Find(hospitalId).HospitalName;
-            var doctors = db.Doctors.ToList();
+            var doctors = db.Doctors.Where(dr => dr.HospitalId == null).ToList();
             ViewBag.DoctorId = new SelectList(doctors, "Id", "DoctorName");
 
             return View();
@@ -170,11 +170,9 @@ namespace HospitalSystem.Controllers
                 return HttpNotFound();
             }
 
-
-            hospital.Doctors.Add(doctor);
+                hospital.Doctors.Add(doctor);
                 db.SaveChanges();
-        
-
+         
             return RedirectToAction("Details", new { id = hospitalId });
         }
 
@@ -190,7 +188,7 @@ namespace HospitalSystem.Controllers
 
             var hospital = db.Hospitals.Find(hospitalId);
             var doctor = db.Doctors.Find(doctorId);
-
+            doctor.HospitalId = null;
 
             hospital.Doctors.Remove(doctor);
             db.SaveChanges();
