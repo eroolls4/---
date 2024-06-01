@@ -11,11 +11,13 @@ using HospitalSystem.Models.Entities;
 
 namespace HospitalSystem.Controllers
 {
+    //[Authorize(Roles ="Administrator")]
     public class HospitalsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Hospitals
+        [AllowAnonymous]
         public ActionResult Index()
         {
             return View(db.Hospitals.ToList());

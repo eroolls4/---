@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using HospitalSystem.Models.Entities.enums;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
@@ -82,5 +85,24 @@ namespace HospitalSystem.Models
     {
         public string SelectedProvider { get; set; }
         public ICollection<System.Web.Mvc.SelectListItem> Providers { get; set; }
+    }
+
+    public class AddToRoleModel
+    {
+        public string SelectedEmail { get; set; }
+
+        public List<string> PossibleRoles { get; set; }
+
+        public List<string> PossibleEmails {  get; set; }
+
+        public string SelectedRole { get; set; }
+
+
+        public AddToRoleModel() { 
+             PossibleRoles = new List<string>();
+             PossibleEmails = new List<string>();
+             PossibleRoles= ((ROLES[])Enum.GetValues(typeof(ROLES))).Select(c => c.ToString()).ToList();
+        }
+
     }
 }

@@ -16,6 +16,8 @@ namespace HospitalSystem.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Patients
+
+        //[Authorize]
         public ActionResult Index()
         {
             return View(db.Patients.ToList());

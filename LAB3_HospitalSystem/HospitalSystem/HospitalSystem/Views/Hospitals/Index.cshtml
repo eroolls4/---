@@ -9,37 +9,74 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.HospitalName)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.HospitalLocation)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.HospitalImage)
-        </th>
-        <th></th>
-    </tr>
+<table id="hospitalTable" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HospitalName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HospitalLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HospitalImage)
+            </th>
+            <th></th>
+        </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.HospitalName)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.HospitalLocation)
-        </td>
-        <td>
-            <img src="@item.HospitalImage" alt="Image" style="max-width: 200px" />
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id = item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-        </td>
-    </tr>
-}
+    </thead>
+   
+    <tbody>
 
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HospitalName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HospitalLocation)
+                </td>
+                <td>
+                    <img src="@item.HospitalImage" alt="Image" style="max-width: 200px" />
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+                    <button data-hospital-id="@item.Id" class="btn-link js-delete">Delete</button>
+                </td>
+            </tr>
+        }
+
+    </tbody>
 </table>
+
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            var table = $("#hospitalTable").DataTable();
+
+            $("#hospitalTable .js-delete").on("click", function () {
+                var button = $(this);
+                bootbox.confirm("Do you want to delete this hospital?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "/api/HospitalAPI/" + button.attr("data-hospital-id"),
+                            method: "DELETE",
+                            success: function () {
+                                table.row(button.parents("tr")).remove().draw();
+                            },
+                            errror: function (err) {
+                                console.log(err);
+                            }
+                        })
+                    }
+                });
+
+            });
+        });
+
+    </script>
+}

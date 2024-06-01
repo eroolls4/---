@@ -9,6 +9,9 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using HospitalSystem.Models;
+using System.Data.Entity;
+using System.Net;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace HospitalSystem.Controllers
 {
@@ -422,6 +425,40 @@ namespace HospitalSystem.Controllers
 
             base.Dispose(disposing);
         }
+
+        public async Task<ActionResult> AddUserToRole()
+        {
+            AddToRoleModel model = new AddToRoleModel();
+            var usersWithoutRoles = await UserManager.Users.Where(u => u.Roles.Count == 0).ToListAsync();
+            foreach (var item in usersWithoutRoles)
+            {
+                model.PossibleEmails.Add(item.Email.ToString());
+            }
+            return View(model);
+        }
+
+
+        [HttpPost]
+        public async Task<ActionResult> AddUserToRole(AddToRoleModel model)
+        {
+            if (model == null || string.IsNullOrWhiteSpace(model.SelectedEmail) || string.IsNullOrWhiteSpace(model.SelectedRole))
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+
+            var user = await UserManager.FindByEmailAsync(model.SelectedEmail);
+            if (user == null)
+            {
+                throw new HttpException(404, "There is no user with that email");
+            }
+
+         
+            // Now safely add the user to the role
+             UserManager.AddToRole(user.Id, model.SelectedRole);
+
+            return RedirectToAction("Index", "Patients");
+        }
+
 
         #region Helpers
         // Used for XSRF protection when adding external logins
