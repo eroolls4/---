@@ -1,0 +1,19 @@
+﻿﻿@model WebApplication1.Models.Entities.Apartment
+
+@{
+    ViewBag.Title = "Add Apartman";
+}
+
+<h2>Add Apartman for @ViewBag.CityName</h2>
+
+@using (Html.BeginForm("AddApartmanToCity", "Cities"))
+{
+    @Html.Hidden("CityID", (int)ViewBag.CityID)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("ApartmanID", null, "-- Select Apartman --", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Patient</button>
+}
